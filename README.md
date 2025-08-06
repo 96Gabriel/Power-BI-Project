@@ -10,7 +10,7 @@ The main intention of this project is to explain the concept of economic freedom
 This project consists of:
 - Two datasets (one for economic freedom data, one for GDP per capita data), taken from Excel files
 - A PBIX file, with the report itself
-- A PDF file with a dashboard
+- A PDF file with a report
 
 ### Description
 
